@@ -1,4 +1,4 @@
-[Final Project Completed: SVD-InST](https://github.com/dajiaohuang/SVD-InST)
+Final Project Completed: [SVD-InST](https://github.com/dajiaohuang/SVD-InST)
 
 [CycleGAN](https://zhuanlan.zhihu.com/p/148364725), DiscoGAN, DualGAN
 
